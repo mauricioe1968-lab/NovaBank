@@ -1,0 +1,4 @@
+// Cada Classe faz apenas uma coisa 
+// DAO - Data Access Object - objeto responsável pelo acesso aos Dados.
+//Ele contém comandos como: INSERT, SELECT, UPDATE, DELETE.
+
